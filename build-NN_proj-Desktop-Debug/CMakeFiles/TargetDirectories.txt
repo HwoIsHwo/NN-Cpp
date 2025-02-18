@@ -1,0 +1,3 @@
+/home/deadend/Desktop/prj/build-NN_proj-Desktop-Debug/CMakeFiles/NN_proj.dir
+/home/deadend/Desktop/prj/build-NN_proj-Desktop-Debug/CMakeFiles/edit_cache.dir
+/home/deadend/Desktop/prj/build-NN_proj-Desktop-Debug/CMakeFiles/rebuild_cache.dir

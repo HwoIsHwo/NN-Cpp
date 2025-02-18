@@ -1,0 +1,1 @@
+/usr/bin/g++ -g CMakeFiles/NN_proj.dir/main.cpp.o CMakeFiles/NN_proj.dir/matrix.cpp.o -o NN_proj 
