@@ -1,1 +1,1 @@
-Somthing is going wrong
+Something is going wrong

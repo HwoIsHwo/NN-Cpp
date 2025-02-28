@@ -3,6 +3,8 @@ file(REMOVE_RECURSE
   "CMakeFiles/NN_proj.dir/main.cpp.o.d"
   "CMakeFiles/NN_proj.dir/matrix.cpp.o"
   "CMakeFiles/NN_proj.dir/matrix.cpp.o.d"
+  "CMakeFiles/NN_proj.dir/nn.cpp.o"
+  "CMakeFiles/NN_proj.dir/nn.cpp.o.d"
   "NN_proj"
   "NN_proj.pdb"
 )

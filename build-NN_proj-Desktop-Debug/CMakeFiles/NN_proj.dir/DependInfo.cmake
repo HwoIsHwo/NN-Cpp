@@ -10,6 +10,7 @@ set(CMAKE_DEPENDS_LANGUAGES
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
   "/home/deadend/Desktop/prj/NN_proj/main.cpp" "CMakeFiles/NN_proj.dir/main.cpp.o" "gcc" "CMakeFiles/NN_proj.dir/main.cpp.o.d"
   "/home/deadend/Desktop/prj/NN_proj/matrix.cpp" "CMakeFiles/NN_proj.dir/matrix.cpp.o" "gcc" "CMakeFiles/NN_proj.dir/matrix.cpp.o.d"
+  "/home/deadend/Desktop/prj/NN_proj/nn.cpp" "CMakeFiles/NN_proj.dir/nn.cpp.o" "gcc" "CMakeFiles/NN_proj.dir/nn.cpp.o.d"
   )
 
 # Targets to which this target links.

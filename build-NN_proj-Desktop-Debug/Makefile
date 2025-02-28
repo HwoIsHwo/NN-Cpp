@@ -177,6 +177,30 @@ matrix.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/NN_proj.dir/build.make CMakeFiles/NN_proj.dir/matrix.cpp.s
 .PHONY : matrix.cpp.s
 
+nn.o: nn.cpp.o
+.PHONY : nn.o
+
+# target to build an object file
+nn.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/NN_proj.dir/build.make CMakeFiles/NN_proj.dir/nn.cpp.o
+.PHONY : nn.cpp.o
+
+nn.i: nn.cpp.i
+.PHONY : nn.i
+
+# target to preprocess a source file
+nn.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/NN_proj.dir/build.make CMakeFiles/NN_proj.dir/nn.cpp.i
+.PHONY : nn.cpp.i
+
+nn.s: nn.cpp.s
+.PHONY : nn.s
+
+# target to generate assembly for a file
+nn.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/NN_proj.dir/build.make CMakeFiles/NN_proj.dir/nn.cpp.s
+.PHONY : nn.cpp.s
+
 # Help Target
 help:
 	@echo "The following are some of the valid targets for this Makefile:"
@@ -192,6 +216,9 @@ help:
 	@echo "... matrix.o"
 	@echo "... matrix.i"
 	@echo "... matrix.s"
+	@echo "... nn.o"
+	@echo "... nn.i"
+	@echo "... nn.s"
 .PHONY : help
 
 
